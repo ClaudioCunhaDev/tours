@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Tours } from "./components/Tours";
+import { Tours } from "./Components/Tours";
 
 function App() {
   const URL = "https://course-api.com/react-tours-project";
